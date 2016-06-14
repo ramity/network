@@ -2,7 +2,7 @@
 	<head>
 		<title>Demo</title>
 		<link href='https://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
-		<link rel="stylesheet" type="text/css" href="https://ramity.com/apps/network/css/index.css">
+		<link rel="stylesheet" type="text/css" href="css/index.css">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
 	</head>
@@ -23,7 +23,7 @@
 					<a id="topnavprofile" href="#">Ramity</a>
 					<a id="topnavextra" href="#"></a>
 				</div>
-				
+
 			</div>
 		</div>
 		<div id="topext">
